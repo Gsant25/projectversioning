@@ -29,4 +29,3 @@
 <p align="center">
     Nesta trilha, vou aprender a parte de estrutura e arquiterura de softwares
 </p>
-<h3>Módulos:</h3>
